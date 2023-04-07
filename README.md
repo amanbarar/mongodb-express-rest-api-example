@@ -23,7 +23,9 @@ cd app
 npm install
 npm start
 ```
+- May need to add `--openssl-legacy-provider` in `package.json`
 
 ## Disclaimer
 
 Use at your own risk; not a supported MongoDB product
+May need to make your own configurations in eslint
